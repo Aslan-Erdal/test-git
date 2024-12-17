@@ -1,0 +1,12 @@
+div {
+    border: 1px solid red;
+}
+
+div h2 {
+    font-size: 36px;
+    font-weight: 900;      
+}
+
+p {
+    font-size: 22px;
+}
